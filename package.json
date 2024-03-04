@@ -121,8 +121,7 @@
       },
       "cordova-plugin-geolocation": {
         "GPS_REQUIRED": "true"
-      },
-      "@parrino/cordova-plugin-local-notifications": {}
+      }
     },
     "platforms": [
       "android"
